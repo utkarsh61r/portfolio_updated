@@ -6,7 +6,7 @@
 
 ## 🌐 Live Preview
 
-Open `index.html` in any modern browser to view the portfolio locally.
+https://portfolio-updated-kohl-rho.vercel.app/
 
 ---
 
